@@ -1,4 +1,4 @@
-# webpack-bootstrap
+# webpack-foundation
 
 Webpack with WebpackDevServer, Bootstrap, Sass, Stylelint & Babel
 
@@ -11,17 +11,17 @@ Webpack with WebpackDevServer, Bootstrap, Sass, Stylelint & Babel
 * [Webpack](https://webpack.github.io/) for compiling assets
 * [WebpackDevServer](https://github.com/webpack/webpack-dev-server)
 * [Stylelint](https://github.com/stylelint/stylelint)
-* [Bootstrap 4](https://getbootstrap.com/)
+* [Foundation 6](https://foundation.zurb.com/sites/docs/)
 * [Babel](https://babeljs.io/)
 
 ## Installation
 
 ```shell
-$ git clone git@github.com:zelmandesign/webpack-bootstrap.git
-$ cd webpack-bootstrap
+$ git clone git@github.com:zelmandesign/webpack-foundation.git
+$ cd webpack-foundation
 ```
 
-Run `yarn` from `webpack-bootstrap` directory to install dependencies
+Run `yarn` from `webpack-foundation` directory to install dependencies
 
 ## Development
 

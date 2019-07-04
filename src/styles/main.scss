@@ -1,0 +1,9 @@
+// @import "settings";
+@import "~foundation-sites/scss/foundation";
+@import "variables";
+@import "global";
+@import "header";
+@import "pages";
+@import "footer";
+
+@include foundation-everything;
